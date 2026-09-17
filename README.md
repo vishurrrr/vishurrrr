@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="avatar.png" width="150" alt="avatar" />
+<img src="ascii-portrait.svg" width="300" alt="ascii avatar" />
 
 <br/>
 
