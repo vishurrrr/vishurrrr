@@ -33,9 +33,21 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+<img src="hacker-banner.svg" width="100%" />
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThrcm04czQycGFyNzl1eXNrem5iMXliZ2FnbnRsNjhodHVuYmd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="70"> &nbsp;About Me
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishurrrr/vishurrrr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishurrrr/vishurrrr/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vishurrrr/vishurrrr/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThrcm04czQycGFyNzl1eXNrem5iMXliZ2FnbnRsNjhodHVuYmd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"> &nbsp;About Me
 
 Hi, I'm **Vaishali Rawat** — a Computer Science Engineering student currently building a nationwide cloudburst risk detection system on NASA IMERG data. I build systems that have to hold up against real inputs — messy satellite feeds, hostile user input, and virtual machines that shouldn't be trusted. My work sits at the intersection of **backend engineering**, **security**, and **applied ML**: I care less about a model's benchmark score than whether the pipeline feeding it can be spoofed.
 
@@ -245,18 +257,6 @@ Hi, I'm **Vaishali Rawat** — a Computer Science Engineering student currently 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishurrrr&theme=tokyonight&utcOffset=5.5" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishurrrr&theme=tokyonight" width="49%" />
-
-</div>
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishurrrr/vishurrrr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishurrrr/vishurrrr/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vishurrrr/vishurrrr/output/github-snake.svg" width="100%" />
-</picture>
 
 </div>
 
