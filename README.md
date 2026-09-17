@@ -6,9 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Vaishali%20Rawat&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20Backend%20%26%20Security%20%7C%20Applied%20ML&descAlignY=55&descSize=16" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+Graphic+Era+Hill+University;Building+AI-powered+geospatial+risk+systems;Security-first+full-stack+engineering;200%2B+algorithmic+problems+solved" alt="Typing SVG" />
-</a>
+<img src="avatar.png" width="40" alt="mini avatar" style="border-radius:50%;" />
 
 <br/>
 
