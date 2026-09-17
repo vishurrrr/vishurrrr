@@ -35,21 +35,9 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThrcm04czQycGFyNzl1eXNrem5iMXliZ2FnbnRsNjhodHVuYmd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="55"> &nbsp;About Me
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThrcm04czQycGFyNzl1eXNrem5iMXliZ2FnbnRsNjhodHVuYmd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="70"> &nbsp;About Me
 
-```yaml
-name:        Vaishali Rawat
-role:        Computer Science Engineering Student
-education:   B.Tech CSE — Graphic Era Hill University, Dehradun (2023 – 2027)
-cgpa:        8.07 / 10
-location:    Dehradun, Uttarakhand, India
-focus:       [ Backend Engineering, Cyber Security, Applied Machine Learning ]
-coursework:  [ DSA, OOP, DAA, Operating Systems, Computer Networks, Cyber Security ]
-currently:   Building a nationwide cloudburst risk detection system on NASA IMERG data
-philosophy:  "Ship it secure, or don't ship it."
-```
-
-I am a third-year Computer Science undergraduate who builds systems that have to hold up against real inputs — messy satellite feeds, hostile user input, and virtual machines that shouldn't be trusted. My work sits at the intersection of **backend engineering**, **security**, and **applied ML**: I care less about a model's benchmark score than whether the pipeline feeding it can be spoofed.
+Hi, I'm **Vaishali Rawat** — a Computer Science Engineering student currently building a nationwide cloudburst risk detection system on NASA IMERG data. I build systems that have to hold up against real inputs — messy satellite feeds, hostile user input, and virtual machines that shouldn't be trusted. My work sits at the intersection of **backend engineering**, **security**, and **applied ML**: I care less about a model's benchmark score than whether the pipeline feeding it can be spoofed.
 
 **What I'm working toward:** software engineering roles where correctness and security are first-class requirements rather than a hardening pass at the end — infrastructure, platform, and safety-critical systems.
 
