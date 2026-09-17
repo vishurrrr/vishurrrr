@@ -35,7 +35,7 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThrcm04czQycGFyNzl1eXNrem5iMXliZ2FnbnRsNjhodHVuYmd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="28"> &nbsp;About Me
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThrcm04czQycGFyNzl1eXNrem5iMXliZ2FnbnRsNjhodHVuYmd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="55"> &nbsp;About Me
 
 ```yaml
 name:        Vaishali Rawat
