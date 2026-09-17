@@ -322,7 +322,7 @@ I'm open to **software engineering internships**, **open-source collaboration**,
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=160&section=footer&animation=twinkling&reversal=true" width="100%" />
 
 **⭐ If something here is useful to you, a star on the repo means a lot.**
 
