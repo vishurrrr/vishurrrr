@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="150" alt="avatar" />
+<img src="avatar.png" width="150" alt="avatar" />
 
 <br/>
 
