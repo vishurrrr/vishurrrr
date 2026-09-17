@@ -229,8 +229,8 @@ I am a third-year Computer Science undergraduate who builds systems that have to
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishurrrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishurrrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishurrrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&cache_seconds=1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishurrrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8&cache_seconds=1" />
 
 <br/>
 
