@@ -61,6 +61,53 @@ Hi, I'm **Vaishali Rawat** — a Computer Science Engineering student currently 
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Engineering Stack
+
+<div align="center">
+
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+#### ⚙️ Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-7aa2f7?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Autonomous_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🤖 Machine Learning & Data
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NASA IMERG](https://img.shields.io/badge/NASA_IMERG_API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+
+#### 🔐 Security & Systems
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-c53b53?style=for-the-badge&logo=hackthebox&logoColor=white)
+![XSS Prevention](https://img.shields.io/badge/Input_Sanitization-bb9af7?style=for-the-badge&logo=owasp&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Hypervisor_&_VMs-9ece6a?style=for-the-badge&logo=qemu&logoColor=black)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-e0af68?style=for-the-badge&logo=leetcode&logoColor=black)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects
 
 <div align="center">
@@ -124,52 +171,6 @@ Hi, I'm **Vaishali Rawat** — a Computer Science Engineering student currently 
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Engineering Stack
-
-<div align="center">
-
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-#### ⚙️ Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-7aa2f7?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🗄️ Databases
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_Autonomous_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-#### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### 🤖 Machine Learning & Data
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NASA IMERG](https://img.shields.io/badge/NASA_IMERG_API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
-
-#### 🔐 Security & Systems
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-c53b53?style=for-the-badge&logo=hackthebox&logoColor=white)
-![XSS Prevention](https://img.shields.io/badge/Input_Sanitization-bb9af7?style=for-the-badge&logo=owasp&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Hypervisor_&_VMs-9ece6a?style=for-the-badge&logo=qemu&logoColor=black)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-e0af68?style=for-the-badge&logo=leetcode&logoColor=black)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
 ## <img src="https://media.giphy.com/media/ZDaBmO0LbRDMWWmNkr/giphy.gif" width="28"> &nbsp;Achievements & Recognition
 
@@ -190,38 +191,6 @@ Hi, I'm **Vaishali Rawat** — a Computer Science Engineering student currently 
 ![AWS](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1b27)
 ![Apna College](https://img.shields.io/badge/Complete_Web_Development-7aa2f7?style=flat-square&logo=html5&logoColor=white&labelColor=1a1b27)
 
-### 🎓 Academic Record
-
-| Qualification | Institution | Result |
-|:--|:--|:--|
-| B.Tech, Computer Science & Technology | Graphic Era Hill University, Dehradun | **8.07 / 10** *(2023 – Present)* |
-| Intermediate | Little Scholars | **84.8%** *(2022)* |
-| Matriculation | Little Scholars | **93.4%** *(2020)* |
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Leadership & Beyond Code
-
-**HR Head — Drive India Vision** *(NITI Aayog registered NGO)*
-- Led mental health awareness drives across multiple regions of Delhi.
-- Conducted student interviews on mental health, turning first-hand accounts into programme direction.
-
-**North Zonal Football Team — Defender**
-- Represented the North Zonal Girls Football Team in competitive fixtures.
-- Defending is a systems role: you read the whole field, hold your line, and cover for people before they know they need it. It's the closest thing to on-call I did before I wrote code.
-
-<br/>
-
-<details>
-<summary><b>🎲 A few things not on the resume</b></summary>
-<br/>
-
-- I found my way into cyber security through wanting to break my own cloudburst detection app before anyone else could.
-- Football taught me the thing DSA didn't: sometimes the right move is to hold position and do nothing.
-- I've spent more hours debugging why a VM's CPU graph lagged one second behind reality than I'd like to admit.
-- Ask me about GPS spoofing detection — it's the part of my work I'll talk about unprompted.
-
-</details>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
@@ -262,6 +231,19 @@ Hi, I'm **Vaishali Rawat** — a Computer Science Engineering student currently 
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Leadership & Beyond Code
+
+**HR Head — Drive India Vision** *(NITI Aayog registered NGO)*
+- Led mental health awareness drives across multiple regions of Delhi.
+- Conducted student interviews on mental health, turning first-hand accounts into programme direction.
+
+**North Zonal Football Team — Defender**
+- Represented the North Zonal Girls Football Team in competitive fixtures.
+- Defending is a systems role: you read the whole field, hold your line, and cover for people before they know they need it. It's the closest thing to on-call I did before I wrote code.
+
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
+
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Currently Exploring
 
 <div align="center">
@@ -293,8 +275,6 @@ I'm open to **software engineering internships**, **open-source collaboration**,
 <a href="https://leetcode.com/u/vaishalirawat18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/><br/>
-
-📍 Dehradun, Uttarakhand, India &nbsp;•&nbsp; 📱 +91 8218854591
 
 </div>
 
